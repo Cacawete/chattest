@@ -108,7 +108,7 @@ def get_location_thumbnail():
   # Google Static Maps API 
 
   # Enter your Google Map api key here 
-  api_key = "xxx"
+  api_key = "AIzaSyA8_-bNuOMBQ4TGztwx_DytKlbfv2Ll9nc"
 
   # url variable store url 
   url = "https://maps.googleapis.com/maps/api/staticmap?"
